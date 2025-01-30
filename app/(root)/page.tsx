@@ -1,6 +1,6 @@
-export const metadata = {
-  title: 'Home',
-}
+// export const metadata = {
+//   title: 'Home',
+// }
 
 const HomePage = () => {
   return <>NextStore</>;
