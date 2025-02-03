@@ -13,7 +13,7 @@ const Menu = () => {
                         <ShoppingCart /> Cart
                     </Link>
                 </Button>
-                <Button asChild>
+                <Button asChild className="bg-violet-900 hover:bg-violet-500">
                     <Link href='/sign-in'>
                         <UserIcon /> Sign In
                     </Link>
